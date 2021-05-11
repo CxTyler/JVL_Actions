@@ -346,7 +346,7 @@
 				<dependency>
 					<groupId>org.mortbay.jasper</groupId>
 					<artifactId>apache-el</artifactId>
-					<version>8.0.27</version>
+					<version>8.5.54</version>
 				</dependency>
 			</dependencies>
 		</profile>
