@@ -18,4 +18,4 @@ jobs:
           base_uri: https://ast.checkmarx.net
           cx_client_id: ${{ secrets.CLIENT_ID }}
           cx_client_secret: ${{ secrets.SECRET }}
-          additional_params: --apikey ${{ secrets.TOMER_API_KEY }}
+          additional_params: --apikey ${{ secrets.CHECKMARX_API_KEY }}
