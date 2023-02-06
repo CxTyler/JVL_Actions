@@ -17,6 +17,7 @@ class Alien implements java.io.Serializable {
 
     String name;
     String source;
+    String location;
 
     // magic method invocado automaticamente durante a desserializacao
     // de objetos deste tipo
